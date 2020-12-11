@@ -21,7 +21,6 @@ Color scheme picking is not a trivial choice. One has to take into account acces
 ## Guides
 
 ### General
-- [Color for Data Visualization](https://www.slideshare.net/mikamiks1/color-for-data-visualization)
 - [How to choose the colors for your data visualizations](https://medium.com/nightingale/how-to-choose-the-colors-for-your-data-visualizations-50b2557fa335)
 - [What to consider when choosing colors for data visualization](https://blog.datawrapper.de/colors/)
 - [Introduction to Color Theory and Color Palettes](https://careerfoundry.com/en/blog/ui-design/introduction-to-color-theory-and-color-palettes/)
