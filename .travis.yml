@@ -1,0 +1,10 @@
+language: ruby
+rvm:
+  - 2.4.1
+before_script:
+  - gem install awesome_bot
+script:
+  - wl=travis-ci,projects.susielu.com/viz-palette
+  - awesome_bot README.md --allow-ssl --allow-redirect --white-list $wl
+notifications:
+  email: false
