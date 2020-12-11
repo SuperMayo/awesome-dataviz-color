@@ -56,6 +56,7 @@ Color scheme picking is not a trivial choice. One has to take into account acces
 ### R
 - [Colorspace](http://colorspace.r-forge.r-project.org/index.html) - Toolbox for selecting individual colors or color palettes.
 - [Viridis](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html) - Matplotlib color scales in R.
+- [R Color Palettes](https://github.com/EmilHvitfeldt/r-color-palettes) - Comprehensive list of palettes and color resources for R.
 
 ### Python
 - [Colorspace](https://python-colorspace.readthedocs.io/en/stable/index.html) - Toolbox for selecting individual colors or color palettes.
